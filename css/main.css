@@ -82,3 +82,34 @@ main div{
     border-radius: 50%;
     text-align: center;
 }
+
+.task-type{
+    padding: .5em 1em .5em 1em;
+    border-radius: 15px;
+    margin-left: 10px;
+    color: white;
+}
+
+.c1{
+    background-color: #44aaea;
+}
+
+.c2{
+    background-color: #9c73e5;
+}
+
+.c3{
+    background-color: #64c1a8;
+}
+
+.c4{
+    background-color: #f39e32;
+}
+
+.c5{
+    background-color: #d962a1;
+}
+
+.c6{
+    background-color: #b0c827;
+}
