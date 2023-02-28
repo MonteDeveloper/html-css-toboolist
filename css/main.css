@@ -72,3 +72,13 @@ main div{
     padding: .5em 1em .5em 1em;
     border-radius: 7px;
 }
+
+.check{
+    display: inline-block;
+    color: #64c1a8;
+    border: 2px solid #64c1a8;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    text-align: center;
+}
